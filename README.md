@@ -1,6 +1,6 @@
-## Laravel - Reacjt Js
+## Laravel - React Js
 
-a Simple CRUD project using Laravel 6 and Reactjs
+a Simple CRUD project using Laravel and ReactJs
 
 git clone https://github.com/Mahmoud-Italy/Laravel-ReactJs.git
 
