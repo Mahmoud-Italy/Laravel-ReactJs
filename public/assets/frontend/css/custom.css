@@ -1,0 +1,65 @@
+.video-btn{
+    top: 60%;
+}
+.video-btn img{
+    width: 100px;
+    height: 100px;
+}
+.titlehome {
+    font-size: 24px;
+    line-height: 24px;
+    text-align: center;
+    padding: 7px 15px 10px 15px;
+    padding-right: 0;
+    color: #000;
+    font-weight: bold;
+    margin-bottom: 10px;
+    position: relative;
+    z-index: 1;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    display: inline-block;
+}
+
+.titlehome h2 {
+    color: #000;
+    text-align: center;
+    background: #fff;
+    padding: 0 0px 0px 0px;
+    display: inline-block;
+    margin-bottom: 0;
+}
+
+.titlehome img {
+    display: inline-block;
+}
+
+.titlehome:after {
+    border-top: 7px solid #ccc;
+    content: "";
+    margin: 0 auto;
+    position: absolute;
+    top: 93%;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    width: 100%;
+    z-index: -1;
+}
+.titlehome.blue:after {
+    border-top: 7px solid #06beff;
+}
+.titlehome.yellow:after {
+    border-top: 7px solid #ffaf00;
+}
+.titlehome.gray:after {
+    border-top: 7px solid #cccccc;
+}
+.titlehome.green:after {
+    border-top: 7px solid #32d7a3;
+}
+.titlehome.greenlight:after {
+    border-top: 7px solid #99dd00;
+}
+.titlehome.brown:after {
+    border-top: 7px solid #aa9a7b;
+}
