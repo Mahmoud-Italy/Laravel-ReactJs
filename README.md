@@ -4,7 +4,7 @@ a Simple CRUD project using Laravel and ReactJs
 
 git clone https://github.com/Mahmoud-Italy/Laravel-ReactJs.git
 
-composer update
+composer update 
 
 npm install
 
